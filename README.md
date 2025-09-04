@@ -1,6 +1,6 @@
 ## Hello, I'm Aikyn! 
 
-🤷‍♂️ Software Engineer student at Astana IT University <br/>
+## 🤷‍♂️ Software Engineer student at Astana IT University <br/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mathalama)
