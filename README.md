@@ -5,19 +5,18 @@
 
 <p align="center">
   Welcome to my page!
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/RequestedChanges.svg"/> &nbsp; <!-- icon --> 
   <br>
   I'm <b>backend developer</b> from 
-  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Kazakhstan.png/1200px-Flag_of_Kazakhstan.png" height="15px" width="auto" style="height: 15px; width: auto;"/> &nbsp; <!-- icon --> 
+  &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Kazakhstan.png/1200px-Flag_of_Kazakhstan.png" height="15px" width="auto" style="height: 15px; width: auto;"/> &nbsp;
   <b>Kazakhstan, Astana</b>
 </p>
 
 <br>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg"/> &nbsp; <!-- icon --> 
   Currently studying at
   <b>Astana IT University</b>
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg"/> &nbsp; <!-- icon --> 
 </p>
 
 <h2></h2>
