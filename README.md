@@ -11,14 +11,14 @@
   <b>Kazakhstan, Astana</b>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg"/> &nbsp; <!-- icon --> 
-  Currently studying at
-  <img src="aitu-logo-2-600x315.png" alt="aitu" width="30">
-  <b>Astana IT University</b>
+  &nbsp;<b>Currently studying at</b>&nbsp;
+  &nbsp;<b>Astana IT University</b>&nbsp;
+  <img src="aitu-logo-2-600x315.png" alt="aitu" width="40">
 </p>
+
+
+</h3>
 
 <h2></h2>
 
