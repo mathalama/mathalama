@@ -41,3 +41,9 @@
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/> 
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathalama&show_icons=true&locale=en&layout=compact" alt="mathalama" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathalama&show_icons=true&locale=en" alt="mathalama" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mathalama&" alt="mathalama" /></p>
+
