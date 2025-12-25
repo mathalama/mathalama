@@ -1,5 +1,5 @@
 <!-- header -->
-<h1 align="center">Aikyn (mathalama) Sagyntai</h1>
+<h1 align="center">Aikyn Sagyntai</h1>
 
 <br>
 
