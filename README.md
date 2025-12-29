@@ -51,10 +51,3 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathalama&theme=github_dark"
   />
 </p>
-
----
-
-<!-- STREAK -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mathalama&theme=github-dark" />
-</p>
