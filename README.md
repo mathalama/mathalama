@@ -12,15 +12,7 @@
   <img src="https://img.shields.io/github/stars/mathalama?style=for-the-badge" />
 </p>
 
----
 
-<!-- MAIN STATS -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathalama&theme=github_dark"
-    width="500"
-  />
-</p>
 
 ---
 
@@ -44,7 +36,13 @@
 </p>
 
 ---
-
+<!-- MAIN STATS -->
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathalama&theme=github_dark"
+    width="500"
+  />
+</p>
 <!-- PROFILE DETAILS -->
 <p align="center">
   <img
