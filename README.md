@@ -1,51 +1,43 @@
-<!-- HEADER -->
-<h1 align="center">Aikyn Sagyntai</h1>
+## 👋 Hi, I’m Aikyn Sagyntai
 
-<p align="center">
-  Backend Developer · Java / Spring
-</p>
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/repos-public-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/mathalama?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/mathalama?style=for-the-badge" />
-</p>
-
-
+Welcome to my GitHub account!
 
 ---
 
-<!-- ABOUT -->
-<p align="center">
-  Welcome to my GitHub profile! <br>
-  Backend developer from <b>Kazakhstan · Astana</b> <br>
-  Astana IT University
-</p>
+## About Me
+
+I am a backend developer passionate about building scalable and maintainable systems, with a strong focus on backend architecture and performance.
 
 ---
 
-<!-- STACK -->
-<h3 align="center">Tech Stack</h3>
+## Technologies & Interests
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+  My primary backend language for building reliable and scalable applications.
+
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+  Used for REST APIs, security, and enterprise-grade backend systems.
+
+- ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
+  Building lightweight and high-performance microservices.
+
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  My main relational database for structured and consistent data storage.
+
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+  Used for caching, performance optimization, and fast data access.
+
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  Containerizing applications for development and deployment.
+
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  Used when type safety is required in frontend or tooling.
+
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  For frontend interaction and integration with backend services.
 
 ---
-<!-- MAIN STATS -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathalama&theme=github_dark"
-    width="500"
-  />
-</p>
-<!-- PROFILE DETAILS -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathalama&theme=github_dark"
-  />
-</p>
+
+## Connect with Me
+
+- [![Telegram](https://img.shields.io/badge/Telegram-@mathalama-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mathalama)
