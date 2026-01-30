@@ -39,5 +39,4 @@ I am a backend developer passionate about building scalable and maintainable sys
 ---
 
 ## Connect with Me
-
-- [![Telegram](https://img.shields.io/badge/Telegram-@mathalama-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mathalama)
+[![Telegram](https://img.shields.io/badge/Telegram-@mathalama-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/mathalama)
