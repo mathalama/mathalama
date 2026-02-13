@@ -2,13 +2,9 @@
 
 Welcome to my GitHub account!
 
----
-
 ## About Me
 
 I am a backend developer passionate about building scalable and maintainable systems, with a strong focus on backend architecture and performance.
-
----
 
 ## Technologies & Interests
 
