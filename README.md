@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Aikyn Sagyntai
+## Hi, I’m Aikyn Sagyntai
 
 Welcome to my GitHub account!
 
