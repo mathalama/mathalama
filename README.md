@@ -2,6 +2,8 @@
 
 Welcome to my GitHub account!
 
+[![Committers Top](https://user-badge.committers.top/kazakhstan/mathalama.svg)](https://committers.top/kazakhstan.html)
+
 ## About Me
 
 I am a backend developer passionate about building scalable and maintainable systems, with a strong focus on backend architecture and performance.
