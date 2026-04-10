@@ -13,9 +13,6 @@ I am a backend developer passionate about building scalable and maintainable sys
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
   My primary backend language for building reliable and scalable applications.
 
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-  Used for REST APIs, security, and enterprise-grade backend systems.
-
 - ![Go](https://img.shields.io/badge/Golang-00ADD8?style=flat&logo=go&logoColor=white)
   Building lightweight and high-performance microservices.
 
