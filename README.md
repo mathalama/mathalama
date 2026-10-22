@@ -1,10 +1,6 @@
-<a href="https://github.com/mathalama">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
-    <img alt="Aikyn Sagyntai — GitHub profile" src="light_mode.svg" width="100%">
-  </picture>
-</a>
+<p align="center">
+  <img alt="Aikyn Sagyntai — now playing" src="player.svg" width="100%">
+</p>
 
 ## About
 
@@ -15,12 +11,10 @@ I like building systems end to end: designing the database, splitting services, 
 **Currently**
 
 - DevOps Engineer at **WONK**
-- Building **Zovik**, a self-hosted CI/CD server with Docker-based build isolation and DAG pipeline visualization
-- Building an **Identity & Verification Platform**, a distributed auth and onboarding system with AI document verification
 - Building **Qolda**, a donation-alert platform for streamers
 - Backend lead of my diploma project **MedExchange**, secure medical document exchange between clinics
 
-Portfolio: [mathalama.dev](https://www.mathalama.dev)
+Portfolio: [www.mathalama.dev](https://www.mathalama.dev)
 
 ---
 
