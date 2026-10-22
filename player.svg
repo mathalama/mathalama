@@ -53,8 +53,6 @@
     <path d="M160 46 A114 114 0 0 1 266 120 L160 160 Z" fill="var(--shine)"/>
     <circle cx="160" cy="160" r="42" fill="#d4d4d8"/>
     <circle cx="160" cy="160" r="42" fill="none" stroke="#000" stroke-opacity="0.25" stroke-width="2"/>
-    <text x="160" y="150" text-anchor="middle" font-size="10" font-weight="700" letter-spacing="2" fill="#18181b">MATHALAMA</text>
-    <text x="160" y="180" text-anchor="middle" font-size="8" letter-spacing="1.5" fill="#18181b" fill-opacity="0.7">SIDE A · 33⅓</text>
     <circle cx="160" cy="160" r="5" fill="var(--card)"/>
   </g>
 
@@ -66,9 +64,6 @@
     <rect x="232" y="188" width="22" height="14" rx="3" transform="rotate(-40 243 195)" fill="#e4e4e7" stroke="#71717a" stroke-width="1.5"/>
   </g>
 
-  <!-- now playing -->
-  <circle class="muted dot" cx="356" cy="58" r="5"/>
-  <text class="muted" x="370" y="63" font-size="13" font-weight="700" letter-spacing="3">NOW PLAYING</text>
   <text class="muted" x="860" y="63" font-size="13" text-anchor="end">mathalama.dev</text>
 
   <text class="text" x="350" y="118" font-size="36" font-weight="700">Love Me Not</text>
