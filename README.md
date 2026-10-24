@@ -1,7 +1,3 @@
-<p align="center">
-  <img alt="Aikyn Sagyntai — now playing" src="player.svg" width="100%">
-</p>
-
 ## About
 
 I'm **Aikyn Sagyntai**, a backend developer and DevOps engineer from **Astana, Kazakhstan**. I work with **Java**, **Go** and **Python**, and study Software Engineering at **Astana IT University** (2024 – 2027).
